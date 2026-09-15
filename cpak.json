@@ -4,7 +4,7 @@
   "name": "LocalSend",
   "description": "Share files with nearby devices over the local network.",
   "version": "1.18.2",
-  "image": "ghcr.io/containerpak/localsend@sha256:f4b16f1d6320e350e96dc4cf451a7c23acd1518806fa7f1cf8fac09fce45e4ef",
+  "image": "ghcr.io/containerpak/localsend@sha256:5d01c0dbd038cd7b56527ab6509ac81d5ba93dee74ec1f54a1048a5c88b13fec",
   "binaries": [
     "/usr/bin/localsend_app"
   ],
